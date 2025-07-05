@@ -17,19 +17,22 @@ Este proyecto consiste en un análisis exploratorio de un conjunto de datos de v
 1. **Clona este repositorio o descarga los archivos.**
 2. **Instala las librerías necesarias** usando pip:
 
-import numpy as np
-import pandas as pd
-pd.set_option("display.max_rows", 150)
-import re
-import matplotlib.pyplot as plot
-import cufflinks as cf
-import glob
-import os
-from google.colab import drive
-drive.mount('/content/drive')
-shared_folder_path = "/content/drive/MyDrive/ecobici"
-os.chdir(shared_folder_path)
-# imputemos el genero
-from sklearn.impute import SimpleImputer
+-import numpy as np
+-import pandas as pd
+-pd.set_option("display.max_rows", 150)
+-import re
+-import matplotlib.pyplot as plot
+-import cufflinks as cf
+-import glob
+-import os
+-from google.colab import drive
+-drive.mount('/content/drive')
+-shared_folder_path = "/content/drive/MyDrive/ecobici"
+-os.chdir(shared_folder_path)
+
+## imputemos el genero
+-from sklearn.impute import SimpleImputer
+
+Para ejecutar el notebook en google Colab.
 
 
