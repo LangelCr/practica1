@@ -33,8 +33,8 @@ Este proyecto consiste en un análisis exploratorio de un conjunto de datos de v
 ## imputemos el genero
 - from sklearn.impute import SimpleImputer
 
-Para ejecutar el notebook en google Colab.
-
+3. Descarga el archivo csv dentro de la carpeta  en la cual quieres trabajar los datos.
+4. Abre y ejecuta el notebook por cada bloque de código para identificar incidencias.
 
 ## Conclusiones
 
@@ -42,5 +42,8 @@ Para ejecutar el notebook en google Colab.
 - De acuerdo a grafico de Genero, se observa que el genero Masculino es el que más usa el servicio de Ecobici 
 - El rango de edad que usa más este servicio es de 26 a 35 años, siendo un 49.5% de los usuarios 
 - En los gráficos correspondiente a fechas (Fecha_Retiro y Fecha_Arribo) , se observa un incremento en los primeros meses del año. Este comportamiento podría estar relacionado con los propósitos que muchas personas adoptan al inicio del año, entre ellos, la de tomar hábitos más saludables como el uso de la bicicleta como medio de transporte.
+  
+## Graficas generadas
 
-
+# Notas adicionales
+Se usó pandas, matplotlib, seaborn y sklearn para procesamiento y visualización.
