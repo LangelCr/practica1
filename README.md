@@ -36,3 +36,11 @@ Este proyecto consiste en un análisis exploratorio de un conjunto de datos de v
 Para ejecutar el notebook en google Colab.
 
 
+## Conclusiones
+
+- En los histogramas de Hora_retiro y Hora_arribo vemos que se comparten los picos y periodos mas usados, siendo el pico en un periodo de 18:00 a 19:00, el siguiente pico se encuentra en el periodo 08:00 a 09:00, y se tienen un último en el periodo de 14:00 a 16:00
+- De acuerdo a grafico de Genero, se observa que el genero Masculino es el que más usa el servicio de Ecobici 
+- El rango de edad que usa más este servicio es de 26 a 35 años, siendo un 49.5% de los usuarios 
+- En los gráficos correspondiente a fechas (Fecha_Retiro y Fecha_Arribo) , se observa un incremento en los primeros meses del año. Este comportamiento podría estar relacionado con los propósitos que muchas personas adoptan al inicio del año, entre ellos, la de tomar hábitos más saludables como el uso de la bicicleta como medio de transporte.
+
+
